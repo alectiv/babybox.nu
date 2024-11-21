@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       '@nuxthub/core',
       '@nuxthq/studio',
       '@nuxtjs/sitemap',
+      '@nuxt/content',
     ],
 
     sitemap: {
