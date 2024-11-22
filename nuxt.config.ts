@@ -9,7 +9,20 @@ export default defineNuxtConfig({
       '@nuxthq/studio',
       '@nuxtjs/sitemap',
       '@nuxt/content',
+      '@nuxtjs/tailwindcss',
+      '@nuxt/image',
     ],
+
+    css: [
+        // SCSS file in the project
+        "~/assets/style/main.scss", // you should add main.scss somewhere in your app
+    ],
+
+    content: {
+        markdown: {
+            slots: true, // Enables slot support in Markdown
+        },
+    },
 
     sitemap: {
         hostname: 'https://babybox.nu',

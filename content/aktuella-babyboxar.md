@@ -1,25 +1,11 @@
 ---
-title: Gratis Babyboxar & Babypaket | Babybox.nu
-description: Upptäck hur du kan få gratis babyboxar och babypaket fyllda med blöjor, babyprodukter och kuponger. Se vår kompletta lista över aktuella erbjudanden!
+title: Aktiviteter för dig som är föräldraledig
+description: Utforska aktiviteter för dig som är föräldraledig.
 ---
 
-::hero{:imageSrc="https://images.unsplash.com/photo-1512418490979-92798cec1380?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Babyprodukter i en presentbox"}
-# Gratis Babyboxar & Babypaket
-Vill du spara pengar som nybliven förälder? Vi hjälper dig att hitta gratis babyboxar fyllda med produkter som blöjor, babyvård och mycket mer.
-::
-
-::two-column
-#left
-### Vad är en babybox?
-En babybox är en gåva från företag som vill ge dig en smak av deras produkter som nybliven förälder. Dessa boxar kan innehålla blöjor, babyvårdsprodukter och värdefulla kuponger.
-
-Här på Babybox.nu samlar vi alla tillgängliga erbjudanden och visar dig exakt hur du kan få dem. Vissa boxar kan hämtas i butik, medan andra skickas hem till dig – ibland helt gratis och ibland mot en mindre fraktavgift.
-
-### Varför är babyboxar gratis?
-Babyboxar är gratis eftersom företag vill marknadsföra sina produkter till nyblivna föräldrar. Det ger dig möjligheten att testa olika märken och hitta dina favoriter – utan att det kostar dig något.
-
-#right
-![Exempel på en babybox som innehåller blöjor och babyprodukter](https://i.imgur.com/5fqCdbR.jpeg)
+::hero-text
+# Gratis Babyboxar / Babypaket
+Utforska alla våra aktiviteter för dig som vill hitta något roligt och utvecklande.
 ::
 
 ::ad
@@ -72,12 +58,17 @@ AD
 ::
 
 ::simple-text
-![Föräldralediga föräldrar som leker med sina barn](https://i.imgur.com/1H9DpOi.png)
+#image-top
+![Föräldralediga](https://images.prismic.io/foraldralediga/d482787b-636f-4ec0-bd3f-367bca8a8096_foraldralediga_Om_oss_1.png?auto=compress,format)
 
-## Välkommen till Babybox.nu – Din guide till gratis babypaket
-Att bli förälder innebär många förändringar och behov av nya produkter. Babybox.nu är din samlingsplats för att enkelt hitta gratis babyboxar och andra erbjudanden för föräldrar och blivande föräldrar. Vi uppdaterar kontinuerligt vår lista med nya erbjudanden så att du inte missar något.
+#heading
+Välkommen till samlingsplatsen för alla aktiviteter för föräldralediga
 
-Genom att ta del av våra erbjudanden kan du som nybliven förälder spara både tid och pengar, samtidigt som du får testa kvalitetsprodukter från välkända varumärken. Här hittar du allt från startboxar till babypaket som hjälper dig under ditt barns första år.
+#content
+Sömnlösa nätter, kladd på golvet, gos och lek. Att vara föräldraledig är både fantastiskt och ofta en av de största omställningarna man genomgår i livet. Då kan det vara skönt att hitta ett sammanhang.
 
-![Karta med aktiviteter och platser för föräldralediga](https://i.imgur.com/jOdfWPV.png)
+Med föräldralediga.se kan du med hjälp av kartan hitta de aktiviteter som finns närmast dig. Man kan även sortera på gratis/inte gratis-aktiviteter och olika kategorier.
+
+#image-bottom
+![Aktiviteter](https://images.prismic.io/foraldralediga/e5942835-92b9-4a4f-b789-09b55e9b6eec_foraldralediga_Om_oss_2.png?auto=compress,format)
 ::
