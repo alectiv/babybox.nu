@@ -24,11 +24,22 @@ export default defineNuxtConfig({
         },
     },
 
+    head: {
+        script: [
+            {
+                src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8715350413784718',
+                async: true,
+                crossorigin: 'anonymous'
+            }
+        ]
+    },
+
     sitemap: {
         hostname: 'https://babybox.nu',
         routes: [
             '/',
-            '/erbjudanden',
+            '/aktuella-babyboxar',
+            '/om-oss',
             '/kontakta-oss',
         ],
     },

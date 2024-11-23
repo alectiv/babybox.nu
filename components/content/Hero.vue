@@ -50,6 +50,18 @@ export default {
   position: relative;
 }
 
+@media (max-width: 768px) {
+  .aspect-h-9 {
+    --tw-aspect-h: 11 !important;
+  }
+
+  .aspect-w-16 {
+    --tw-aspect-w: 16 !important;
+    padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+    position: relative;
+  }
+}
+
 .aspect-h-9 {
   --tw-aspect-h: 9;
 }
