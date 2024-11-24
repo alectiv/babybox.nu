@@ -3,31 +3,29 @@ import { SitemapStream, streamToPromise } from 'sitemap'
 
 export default defineEventHandler(async (event) => {
     try {
-        // Fetch all documents
+        // Fetch documents
         const docs = await serverQueryContent(event).find()
 
-        // Create a new SitemapStream
+        // Generate the XML sitemap
         const sitemap = new SitemapStream({
             hostname: 'https://babybox.nu'
         })
 
-        // Write each document to the sitemap stream
-        for (const doc of docs) {
+        docs.forEach(doc => {
             sitemap.write({
                 url: doc._path,
                 changefreq: 'monthly'
             })
-        }
+        })
 
-        // End the sitemap stream
         sitemap.end()
 
-        // Convert the stream to a string
-        const xml = await streamToPromise(sitemap).then((data) => data.toString())
+        // Collect the XML as a Buffer
+        const xmlBuffer = await streamToPromise(sitemap)
+        const xml = xmlBuffer.toString()
 
-        // Set the appropriate headers for XML
+        // Set XML headers and return response
         event.res.setHeader('Content-Type', 'application/xml')
-
         return xml
     } catch (error) {
         console.error('Error generating sitemap:', error)
