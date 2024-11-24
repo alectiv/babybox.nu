@@ -27,13 +27,4 @@ export default defineNuxtConfig({
             slots: true, // Enables slot support in Markdown
         },
     },
-
-    sitemap: {
-        hostname: 'https://babybox.nu',
-        routes: [
-            '/aktuella-babyboxar',
-            '/om-oss',
-            '/kontakta-oss',
-        ],
-    },
 })
