@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     modules: [
         '@nuxthub/core',
         '@nuxthq/studio',
-        '@nuxtjs/sitemap',
         '@nuxt/content',
         '@nuxtjs/tailwindcss',
         '@nuxt/image',
@@ -32,7 +31,6 @@ export default defineNuxtConfig({
     sitemap: {
         hostname: 'https://babybox.nu',
         routes: [
-            '/',
             '/aktuella-babyboxar',
             '/om-oss',
             '/kontakta-oss',
