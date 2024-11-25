@@ -32,7 +32,7 @@ AD
 
 #col1
 <div class="block group">
-  <a href="https://libero.se" target="_blank" class="block group">
+  <a href="/gratis-libero-babybox" target="_blank" class="block group">
     <img src="https://i.imgur.com/spUjP4R.png" alt="Libero Startbox med blöjor och babyprodukter" class="w-full rounded-lg transition-transform duration-300 group-hover:scale-105">
     <h3 class="text-lg font-medium mt-4">Libero Startbox</h3>
     <p class="text-sm mt-2">Få gratis babyprodukter när du hämtar ut Libero Startbox i butik med en kupong.</p>
@@ -42,7 +42,7 @@ AD
 
 #col2
 <div class="block group">
-  <a href="https://babybox.se" target="_blank" class="block group">
+  <a href="/babybox-original-gratis" target="_blank" class="block group">
     <img src="https://i.imgur.com/waLQdK6.jpeg" alt="Babybox Original fylld med babyvårdsprodukter" class="w-full rounded-lg transition-transform duration-300 group-hover:scale-105">
     <h3 class="text-lg font-medium mt-4">Babybox Original</h3>
     <p class="text-sm mt-2">Hämta Babybox Original gratis i din närmaste Babya-butik eller få den hemskickad för 59 kr i frakt.</p>
@@ -52,7 +52,7 @@ AD
 
 #col3
 <div class="block group">
-  <a href="https://onemillionbabies.com" target="_blank" class="block group">
+  <a href="/one-million-babies-valkomstpaket" target="_blank" class="block group">
     <img src="https://i.imgur.com/gNav4eh.png" alt="One Million Babies box fylld med presenter till nyfödda" class="w-full rounded-lg transition-transform duration-300 group-hover:scale-105">
     <h3 class="text-lg font-medium mt-4">One Million Babies</h3>
     <p class="text-sm mt-2">Beställ en box full av babyprodukter genom att ladda ner deras app.</p>
@@ -62,7 +62,7 @@ AD
 
 #col4
 <div class="block group">
-  <a href="https://babybag.se" target="_blank" class="block group">
+  <a href="/gratis-babybox-babybag" target="_blank" class="block group">
     <img src="https://i.imgur.com/waLQdK6.jpeg" alt="Babybag med produkter från MVC eller BB" class="w-full rounded-lg transition-transform duration-300 group-hover:scale-105">
     <h3 class="text-lg font-medium mt-4">Babybag</h3>
     <p class="text-sm mt-2">Fås via din MVC eller direkt på BB efter förlossningen.</p>
