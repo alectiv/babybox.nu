@@ -2,7 +2,6 @@
   <footer>
     <div class="container mx-auto py-6 text-center mt-40">
       <p>&copy; {{ new Date().getFullYear() }} Babybox.nu. Alla rättigheter förbehållna.</p>
-      <nuxt-link to="/integritetspolicy">Integritetspolicy</nuxt-link>
     </div>
   </footer>
 </template>

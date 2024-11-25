@@ -23,7 +23,7 @@ export default defineNuxtConfig({
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
         ]
     },
-    
+
     css: [
         // SCSS file in the project
         "~/assets/style/main.scss", // you should add main.scss somewhere in your app
