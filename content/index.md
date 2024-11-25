@@ -79,5 +79,8 @@ Att bli förälder innebär många förändringar och behov av nya produkter. Ba
 
 Genom att ta del av våra erbjudanden kan du som nybliven förälder spara både tid och pengar, samtidigt som du får testa kvalitetsprodukter från välkända varumärken. Här hittar du allt från startboxar till babypaket som hjälper dig under ditt barns första år.
 
+  <a href="/om-oss" target="_blank" class="block group">
+  Läs mer om oss
+  </a>
 ![Karta med aktiviteter och platser för föräldralediga](https://i.imgur.com/jOdfWPV.png)
 ::
